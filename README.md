@@ -4,8 +4,8 @@ performance setups. Transitioning into software development, I’ve applied my c
 developing scalable, user-focused applications. With a unique perspective that combines artistic sensibility with technical expertise, I thrive in collaborative
 environments where creativity meets technology.
 
-deployed front end capstone. 
-[link here]('http://vinyl-miner-app.s3-website.us-east-2.amazonaws.com/')
+deployed front end capstone project. 
+[link here](http://vinyl-miner-app.s3-website.us-east-2.amazonaws.com/)
 
 <!---
 gunnarebeling/gunnarebeling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
